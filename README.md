@@ -1,4 +1,4 @@
-# Master data management Framwwork
+# Master Data Management Framwwork
 Implementing a Master Data Management (MDM) project is a complex and strategic initiative that requires detailed planning and coordination across various organizational units. Below, I’ll outline a comprehensive strategy for implementing an MDM project, breaking down each step and highlighting the essential components and considerations.
 
 Below table details the phases, key activities, and teams involved in an MDM strategy and project plan. This format is useful for documentation in repositories or any markdown-compatible system.
